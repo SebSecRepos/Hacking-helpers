@@ -37,6 +37,10 @@ Http scan
 - [Reverse shells getting permisions](https://github.com/SebSecRepos/Helpers/blob/main/Linux/reverse_shells/Permssion_revshell.sh)
 - [Disabled reverse shell in web terminals](https://github.com/SebSecRepos/Helpers/blob/main/Linux/reverse_shells/disabled_rev_shell.sh)
 
+----------
+### Recognition
+- [Detect procesess, services, cron jobs](https://github.com/SebSecRepos/Hacking-helpers/blob/main/Linux/Recognition/Procmon.sh)
+
 ---------
 ## Windows
 

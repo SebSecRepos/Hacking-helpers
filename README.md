@@ -6,7 +6,7 @@
 ---------------------
 ## Linux
 
-### LFI
+### LFI (Bash scripting)
 
 - [LFI interactive console](https://github.com/SebSecRepos/Helpers/blob/main/Linux/LFI/Lfi_interactive_console.sh)
 - [LFI Port discovery](https://github.com/SebSecRepos/Helpers/blob/main/Linux/LFI/Lfi_port_discovery.sh)
@@ -15,7 +15,7 @@
 
 -----
 
-### Network discovery
+### Network discovery (Bash scripting)
 
 - [Advanced host discovery (Specific CIDR)](https://github.com/SebSecRepos/Helpers/blob/main/Linux/Net_Discovery/Advanced_host_discovery.sh)
 - [Host discovery /24](https://github.com/SebSecRepos/Helpers/blob/main/Linux/Net_Discovery/Hostdiscovery.sh)

@@ -8,5 +8,5 @@ trap ctrl_c INT
 while true; do
 echo "> "
 read file
-    curl -s "http://<LFIURL>" | grep "Apply filteras"
+    curl -s "http://<LFIURL>" | grep "Apply filtros"
 done

@@ -47,3 +47,5 @@ Http scan
 ### Network discovery
 - [Hostdiscovery /24](https://github.com/SebSecRepos/Helpers/blob/main/Windows/hostdiscovery.bat)
 
+### Reverse shells
+- [Obfuscated reverse shell & AV](https://github.com/SebSecRepos/Helpers/blob/main/Windows/sc.ps1)
